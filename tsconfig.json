@@ -1,0 +1,41 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "outDir": "dist",
+    "types": [],
+    "skipLibCheck": true,
+    "allowUnreachableCode": false,
+    "allowUnusedLabels": false,
+    "declaration": false,
+    "forceConsistentCasingInFileNames": true,
+    "downlevelIteration": true,
+    "module": "es2020",
+    "moduleResolution": "node",
+    "noEmitOnError": true,
+    "noFallthroughCasesInSwitch": true,
+    "noImplicitReturns": true,
+    "noUnusedLocals": false,
+    "experimentalDecorators": true,
+    "noImplicitOverride": false,
+    "noImplicitAny": false,
+    "pretty": true,
+    "resolveJsonModule" : true,
+    "sourceMap": true,
+    "strict": false,
+    "strictNullChecks": false,
+    "target": "es5",
+    "typeRoots": [
+      "node_modules/@types"
+    ],
+    "incremental": true,
+    "newLine": "LF",
+    "lib": [
+      "esnext",
+      "dom",
+      "dom.iterable"
+    ]
+  },
+  "include": [
+    "src/**/*.ts"
+  ]
+}

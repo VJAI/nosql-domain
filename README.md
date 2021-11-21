@@ -1,1 +1,1 @@
-# nosql-domain
+# @tinyweb/domain

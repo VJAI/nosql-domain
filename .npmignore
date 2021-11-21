@@ -1,0 +1,16 @@
+.idea
+node_modules
+npm-debug.log*
+.idea/
+.DS_Store
+coverage
+/packages
+.editorconfig
+.eslintignore
+.eslintrc.js
+.gitignore
+.prettierrc
+dev.ts
+index.html
+package-lock.json
+webpack.config.js
